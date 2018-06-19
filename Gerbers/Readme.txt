@@ -11,3 +11,7 @@ In1.Cu: Base Copper: 70 um
 In2.Cu: Base Copper: 70 um
 B.Cu: Base Copper: 35 um, Platting: 35 um
 
+For top silkscreen, use "hp-bldc-pcb-Cmts.User.gbr" only.
+
+No bottom silkscreen.
+
