@@ -1,4 +1,4 @@
-Board Name:  HP BLDC PCB, v1.0
+Board Name:  HP BLDC PCB, v1.1
 
 Company:  TI Automotive
 
@@ -10,8 +10,4 @@ F.Cu: Base Copper: 35 um, Platting: 35 um
 In1.Cu: Base Copper: 70 um
 In2.Cu: Base Copper: 70 um
 B.Cu: Base Copper: 35 um, Platting: 35 um
-
-For top silkscreen, use "hp-bldc-pcb-Cmts.User.gbr" only.
-
-No bottom silkscreen.
 
